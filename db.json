@@ -1,0 +1,2004 @@
+{
+  "products": [{
+    "id": 297469,
+    "name": "Digital Food Scale",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Archived",
+    "description": "hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem",
+    "categories": [
+      "Beauty Products"
+    ],
+    "total_sales": 19,
+    "price": 336.59,
+    "reviews": [
+      {
+        "id": 712,
+        "user": "Janenna",
+        "rating": 3,
+        "text": "Nondisplaced longitudinal fracture of unspecified patella, subsequent encounter for closed fracture with malunion",
+        "created_at": "2021-12-13T00:09:54Z"
+      },
+      {
+        "id": 760,
+        "user": "Bayard",
+        "rating": 3,
+        "text": "Injury of optic chiasm",
+        "created_at": "2021-12-28T05:56:50Z"
+      },
+      {
+        "id": 104,
+        "user": "Pip",
+        "rating": 2,
+        "text": "Other disorders of carbohydrate metabolism",
+        "created_at": "2021-03-01T12:20:01Z"
+      }
+    ],
+    "updated_at": "2022-12-13T17:55:46Z",
+    "created_at": "2021-03-16T08:34:45Z"
+  }, {
+    "id": 188223,
+    "name": "Superior Quality Shoes",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "ac tellus semper interdum mauris ullamcorper purus sit amet nulla",
+    "categories": [
+      "Beauty Products",
+      "Kitchen Appliances",
+      "Books"
+    ],
+    "total_sales": 40,
+    "price": 273.6,
+    "reviews": [
+      {
+        "id": 105,
+        "user": "Andrew",
+        "rating": 4,
+        "text": "Laceration without foreign body of abdominal wall, epigastric region without penetration into peritoneal cavity, sequela",
+        "created_at": "2021-03-24T08:52:34Z"
+      },
+      {
+        "id": 991,
+        "user": "Chaddie",
+        "rating": 1,
+        "text": "Poisoning by antiparkinsonism drugs and other central muscle-tone depressants, accidental (unintentional), subsequent encounter",
+        "created_at": "2021-12-24T17:43:11Z"
+      }
+    ],
+    "updated_at": "2022-07-02T20:33:45Z",
+    "created_at": "2021-05-24T02:33:16Z"
+  }, {
+    "id": 74359,
+    "name": "Luxury Leather Bag",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Draft",
+    "description": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse",
+    "categories": [
+      "Clothing"
+    ],
+    "total_sales": 14,
+    "price": 625.16,
+    "reviews": [
+      {
+        "id": 66,
+        "user": "Nanette",
+        "rating": 3,
+        "text": "Crushing injury and traumatic amputation of abdomen, lower back, pelvis and external genitals",
+        "created_at": "2021-06-27T01:09:58Z"
+      },
+      {
+        "id": 679,
+        "user": "Burt",
+        "rating": 5,
+        "text": "Other symptoms and signs involving cognitive functions and awareness",
+        "created_at": "2021-09-25T00:47:35Z"
+      }
+    ],
+    "updated_at": "2022-06-05T07:53:13Z",
+    "created_at": "2021-06-22T15:58:46Z"
+  }, {
+    "id": 694378,
+    "name": "Professional Makeup Brushes",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Active",
+    "description": "ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit",
+    "categories": [
+      "Clothing"
+    ],
+    "total_sales": 6,
+    "price": 446.4,
+    "reviews": [
+      {
+        "id": 811,
+        "user": "Tirrell",
+        "rating": 5,
+        "text": "Seborrhea capitis",
+        "created_at": "2021-07-20T04:44:45Z"
+      },
+      {
+        "id": 463,
+        "user": "Horace",
+        "rating": 4,
+        "text": "Unspecified injury of ulnar artery at forearm level, right arm, initial encounter",
+        "created_at": "2021-08-06T21:01:51Z"
+      }
+    ],
+    "updated_at": "2022-11-29T14:09:24Z",
+    "created_at": "2021-07-23T17:48:50Z"
+  }, {
+    "id": 584900,
+    "name": "Gourmet Chocolate Box",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Active",
+    "description": "cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices",
+    "categories": [
+      "Beauty Products",
+      "Books"
+    ],
+    "total_sales": 48,
+    "price": 916.47,
+    "reviews": [
+      {
+        "id": 29,
+        "user": "Ofelia",
+        "rating": 2,
+        "text": "Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts",
+        "created_at": "2021-12-14T21:56:30Z"
+      }
+    ],
+    "updated_at": "2022-06-10T04:55:01Z",
+    "created_at": "2021-05-02T16:48:23Z"
+  }, {
+    "id": 181007,
+    "name": "Portable Bluetooth Speaker",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+    "categories": [
+      "Kitchen Appliances",
+      "Beauty Products"
+    ],
+    "total_sales": 49,
+    "price": 147.69,
+    "reviews": [
+      {
+        "id": 135,
+        "user": "Ian",
+        "rating": 1,
+        "text": "Unspecified subluxation of right hip, sequela",
+        "created_at": "2021-05-07T05:22:41Z"
+      },
+      {
+        "id": 894,
+        "user": "Fredia",
+        "rating": 3,
+        "text": "Acute hematogenous osteomyelitis, right ankle and foot",
+        "created_at": "2021-03-27T17:19:37Z"
+      },
+      {
+        "id": 541,
+        "user": "Billi",
+        "rating": 5,
+        "text": "Poisoning by sulfonamides, intentional self-harm",
+        "created_at": "2021-05-05T23:32:07Z"
+      }
+    ],
+    "updated_at": "2022-12-28T23:48:08Z",
+    "created_at": "2021-05-31T19:41:48Z"
+  }, {
+    "id": 173924,
+    "name": "Cozy Throw Blanket",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg",
+    "status": "Archived",
+    "description": "vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in",
+    "categories": [
+      "Sports Equipment"
+    ],
+    "total_sales": 34,
+    "price": 917.05,
+    "reviews": [
+      {
+        "id": 706,
+        "user": "Dreddy",
+        "rating": 3,
+        "text": "Unspecified physeal fracture of lower end of humerus, right arm, subsequent encounter for fracture with malunion",
+        "created_at": "2021-06-04T10:51:46Z"
+      },
+      {
+        "id": 858,
+        "user": "Jayne",
+        "rating": 4,
+        "text": "Osteonecrosis due to previous trauma, left finger(s)",
+        "created_at": "2021-06-03T18:47:40Z"
+      }
+    ],
+    "updated_at": "2022-03-26T13:05:19Z",
+    "created_at": "2021-10-26T13:39:45Z"
+  }, {
+    "id": 422056,
+    "name": "Adjustable Standing Desk",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg",
+    "status": "Draft",
+    "description": "integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel",
+    "categories": [
+      "Clothing",
+      "Electronics",
+      "Kitchen Appliances"
+    ],
+    "total_sales": 38,
+    "price": 800.01,
+    "reviews": [
+      {
+        "id": 235,
+        "user": "Sheilah",
+        "rating": 2,
+        "text": "Displaced fracture of greater tuberosity of left humerus, subsequent encounter for fracture with malunion",
+        "created_at": "2021-07-25T17:36:27Z"
+      }
+    ],
+    "updated_at": "2022-04-16T08:30:27Z",
+    "created_at": "2021-11-24T22:41:00Z"
+  }, {
+    "id": 60869,
+    "name": "Vintage Record Player",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Archived",
+    "description": "convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum",
+    "categories": [
+      "Toys"
+    ],
+    "total_sales": 17,
+    "price": 578.92,
+    "reviews": [
+      {
+        "id": 363,
+        "user": "Winthrop",
+        "rating": 3,
+        "text": "Wound botulism",
+        "created_at": "2021-05-02T05:35:19Z"
+      }
+    ],
+    "updated_at": "2022-09-21T08:04:14Z",
+    "created_at": "2021-04-21T14:09:45Z"
+  }, {
+    "id": 700237,
+    "name": "Minimalist Desk Lamp",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg",
+    "status": "Draft",
+    "description": "lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat",
+    "categories": [
+      "Pet Supplies",
+      "Sports Equipment"
+    ],
+    "total_sales": 14,
+    "price": 734.58,
+    "reviews": [
+      {
+        "id": 796,
+        "user": "Dione",
+        "rating": 4,
+        "text": "Toxic effect of other alcohols, intentional self-harm, sequela",
+        "created_at": "2021-01-02T07:44:14Z"
+      },
+      {
+        "id": 767,
+        "user": "Ulick",
+        "rating": 1,
+        "text": "Age-related osteoporosis with current pathological fracture, unspecified lower leg, initial encounter for fracture",
+        "created_at": "2021-08-13T10:21:50Z"
+      },
+      {
+        "id": 770,
+        "user": "August",
+        "rating": 1,
+        "text": "Unspecified dislocation of right wrist and hand, initial encounter",
+        "created_at": "2021-10-17T18:48:38Z"
+      }
+    ],
+    "updated_at": "2022-09-22T08:41:29Z",
+    "created_at": "2021-07-24T08:49:16Z"
+  }, {
+    "id": 166837,
+    "name": "Stainless Steel Water Pitcher",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Active",
+    "description": "nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et",
+    "categories": [
+      "Home Decor",
+      "Beauty Products"
+    ],
+    "total_sales": 26,
+    "price": 369.67,
+    "reviews": [
+      {
+        "id": 588,
+        "user": "Edna",
+        "rating": 3,
+        "text": "Other exposure to uncontrolled fire, not in building or structure, initial encounter",
+        "created_at": "2021-05-31T11:33:22Z"
+      },
+      {
+        "id": 781,
+        "user": "Siobhan",
+        "rating": 3,
+        "text": "Salter-Harris Type III physeal fracture of lower end of right tibia, subsequent encounter for fracture with malunion",
+        "created_at": "2021-08-26T19:15:43Z"
+      },
+      {
+        "id": 893,
+        "user": "Eleanore",
+        "rating": 2,
+        "text": "Chronic pulmonary insufficiency following surgery",
+        "created_at": "2021-10-08T12:46:54Z"
+      },
+      {
+        "id": 640,
+        "user": "Olag",
+        "rating": 4,
+        "text": "Injury of conjunctiva and corneal abrasion without foreign body, left eye, sequela",
+        "created_at": "2021-02-27T08:31:03Z"
+      }
+    ],
+    "updated_at": "2022-03-31T09:27:41Z",
+    "created_at": "2021-03-02T21:16:00Z"
+  }, {
+    "id": 524173,
+    "name": "Sleek Laptop Sleeve",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Active",
+    "description": "leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis",
+    "categories": [
+      "Books",
+      "Outdoor Gear"
+    ],
+    "total_sales": 24,
+    "price": 699.79,
+    "reviews": [
+      {
+        "id": 785,
+        "user": "Rhea",
+        "rating": 5,
+        "text": "Corrosion of first degree of unspecified ankle, subsequent encounter",
+        "created_at": "2021-10-29T07:37:44Z"
+      },
+      {
+        "id": 407,
+        "user": "Eziechiele",
+        "rating": 2,
+        "text": "Torus fracture of lower end of unspecified radius, sequela",
+        "created_at": "2021-01-03T12:56:35Z"
+      },
+      {
+        "id": 297,
+        "user": "Elizabet",
+        "rating": 1,
+        "text": "Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter",
+        "created_at": "2021-02-16T11:13:10Z"
+      },
+      {
+        "id": 134,
+        "user": "Julia",
+        "rating": 3,
+        "text": "Zika virus disease",
+        "created_at": "2021-10-30T14:35:44Z"
+      }
+    ],
+    "updated_at": "2022-01-23T18:50:48Z",
+    "created_at": "2021-01-03T12:25:56Z"
+  }, {
+    "id": 709029,
+    "name": "Sleek Laptop Sleeve",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Active",
+    "description": "integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in",
+    "categories": [
+      "Beauty Products"
+    ],
+    "total_sales": 6,
+    "price": 503.19,
+    "reviews": [
+      {
+        "id": 669,
+        "user": "Shauna",
+        "rating": 4,
+        "text": "Mechanical loosening of other internal prosthetic joint, sequela",
+        "created_at": "2021-11-22T21:42:16Z"
+      },
+      {
+        "id": 193,
+        "user": "Nathalia",
+        "rating": 1,
+        "text": "Malignant neoplasm of overlapping sites of breast, male",
+        "created_at": "2021-03-25T22:04:48Z"
+      },
+      {
+        "id": 703,
+        "user": "Massimo",
+        "rating": 3,
+        "text": "Displaced oblique fracture of shaft of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",
+        "created_at": "2021-08-14T21:47:02Z"
+      }
+    ],
+    "updated_at": "2022-08-22T03:16:30Z",
+    "created_at": "2021-09-30T20:10:45Z"
+  }, {
+    "id": 610493,
+    "name": "Aromatherapy Candle Set",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Archived",
+    "description": "magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus",
+    "categories": [
+      "Home Decor"
+    ],
+    "total_sales": 49,
+    "price": 698.71,
+    "reviews": [
+      {
+        "id": 917,
+        "user": "Lari",
+        "rating": 2,
+        "text": "Contact with nonvenomous frogs, subsequent encounter",
+        "created_at": "2021-09-04T22:18:37Z"
+      },
+      {
+        "id": 194,
+        "user": "Jorie",
+        "rating": 5,
+        "text": "Pathological fracture in other disease, unspecified ulna and radius, sequela",
+        "created_at": "2021-04-18T23:20:11Z"
+      }
+    ],
+    "updated_at": "2022-03-27T23:33:07Z",
+    "created_at": "2021-03-21T17:23:27Z"
+  }, {
+    "id": 265193,
+    "name": "Gaming Mouse Pad",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Draft",
+    "description": "sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus",
+    "categories": [
+      "Books"
+    ],
+    "total_sales": 9,
+    "price": 607.85,
+    "reviews": [
+      {
+        "id": 191,
+        "user": "Berkley",
+        "rating": 5,
+        "text": "Displaced articular fracture of head of unspecified femur, initial encounter for open fracture type I or II",
+        "created_at": "2021-04-05T04:00:20Z"
+      },
+      {
+        "id": 126,
+        "user": "Tyrus",
+        "rating": 3,
+        "text": "Posterior subluxation of right radial head, subsequent encounter",
+        "created_at": "2021-06-09T03:46:53Z"
+      },
+      {
+        "id": 711,
+        "user": "Amii",
+        "rating": 4,
+        "text": "Nondisplaced midcervical fracture of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
+        "created_at": "2021-01-29T23:29:05Z"
+      }
+    ],
+    "updated_at": "2022-02-21T08:02:00Z",
+    "created_at": "2021-03-31T00:27:12Z"
+  }, {
+    "id": 445099,
+    "name": "Faux Fur Throw Pillow",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui",
+    "categories": [
+      "Home Decor",
+      "Clothing"
+    ],
+    "total_sales": 28,
+    "price": 820.06,
+    "reviews": [
+      {
+        "id": 99,
+        "user": "Andris",
+        "rating": 1,
+        "text": "Other fracture of lower end of right femur, subsequent encounter for open fracture type I or II with delayed healing",
+        "created_at": "2021-05-01T22:06:26Z"
+      },
+      {
+        "id": 127,
+        "user": "Reiko",
+        "rating": 1,
+        "text": "Toxic effect of other alcohols, accidental (unintentional), subsequent encounter",
+        "created_at": "2021-10-13T20:28:07Z"
+      },
+      {
+        "id": 624,
+        "user": "Jaye",
+        "rating": 4,
+        "text": "Stress fracture, right toe(s), subsequent encounter for fracture with routine healing",
+        "created_at": "2021-03-05T13:51:51Z"
+      }
+    ],
+    "updated_at": "2022-11-10T00:09:12Z",
+    "created_at": "2021-11-18T06:26:57Z"
+  }, {
+    "id": 937879,
+    "name": "Luxury Leather Bag",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Draft",
+    "description": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id",
+    "categories": [
+      "Sports Equipment",
+      "Clothing"
+    ],
+    "total_sales": 45,
+    "price": 370.99,
+    "reviews": [
+      {
+        "id": 221,
+        "user": "Davin",
+        "rating": 3,
+        "text": "Medial dislocation of proximal end of tibia, right knee, subsequent encounter",
+        "created_at": "2021-08-14T06:55:27Z"
+      }
+    ],
+    "updated_at": "2022-01-29T17:36:31Z",
+    "created_at": "2021-01-31T16:19:56Z"
+  }, {
+    "id": 161183,
+    "name": "Vintage Record Player",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue",
+    "categories": [
+      "Outdoor Gear"
+    ],
+    "total_sales": 27,
+    "price": 189.09,
+    "reviews": [
+      {
+        "id": 952,
+        "user": "Ruggiero",
+        "rating": 4,
+        "text": "Nondisplaced fracture of medial condyle of left femur, subsequent encounter for closed fracture with routine healing",
+        "created_at": "2021-12-23T20:22:48Z"
+      },
+      {
+        "id": 912,
+        "user": "Dotty",
+        "rating": 4,
+        "text": "Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, bilateral legs",
+        "created_at": "2021-01-05T00:06:20Z"
+      }
+    ],
+    "updated_at": "2022-02-22T09:56:02Z",
+    "created_at": "2021-11-07T22:04:12Z"
+  }, {
+    "id": 9037,
+    "name": "Stylish Sunglasses",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum",
+    "categories": [
+      "Home Decor"
+    ],
+    "total_sales": 7,
+    "price": 956.85,
+    "reviews": [
+      {
+        "id": 436,
+        "user": "Ange",
+        "rating": 5,
+        "text": "Salter-Harris Type IV physeal fracture of lower end of unspecified tibia",
+        "created_at": "2021-05-27T09:09:11Z"
+      },
+      {
+        "id": 127,
+        "user": "Juditha",
+        "rating": 5,
+        "text": "Poisoning by, adverse effect of and underdosing of monoamine-oxidase-inhibitor antidepressants",
+        "created_at": "2021-08-09T07:15:29Z"
+      }
+    ],
+    "updated_at": "2022-01-15T23:39:31Z",
+    "created_at": "2021-01-23T09:54:10Z"
+  }, {
+    "id": 71579,
+    "name": "Vintage Record Player",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Draft",
+    "description": "natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",
+    "categories": [
+      "Kitchen Appliances",
+      "Pet Supplies",
+      "Toys"
+    ],
+    "total_sales": 50,
+    "price": 573.57,
+    "reviews": [
+      {
+        "id": 225,
+        "user": "Shell",
+        "rating": 1,
+        "text": "Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident",
+        "created_at": "2021-12-06T15:52:26Z"
+      }
+    ],
+    "updated_at": "2022-09-24T13:03:32Z",
+    "created_at": "2021-11-17T23:48:58Z"
+  }, {
+    "id": 385299,
+    "name": "Portable Bluetooth Speaker",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Active",
+    "description": "vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque",
+    "categories": [
+      "Pet Supplies",
+      "Home Decor"
+    ],
+    "total_sales": 21,
+    "price": 942.26,
+    "reviews": [
+      {
+        "id": 462,
+        "user": "Noreen",
+        "rating": 1,
+        "text": "Nondisplaced fracture of distal phalanx of right index finger, subsequent encounter for fracture with nonunion",
+        "created_at": "2021-02-04T03:21:56Z"
+      }
+    ],
+    "updated_at": "2022-02-20T02:38:15Z",
+    "created_at": "2021-07-11T05:14:58Z"
+  }, {
+    "id": 343693,
+    "name": "Handcrafted Ceramic Mug",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor",
+    "categories": [
+      "Home Decor"
+    ],
+    "total_sales": 9,
+    "price": 330.15,
+    "reviews": [
+      {
+        "id": 180,
+        "user": "Luce",
+        "rating": 3,
+        "text": "Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter",
+        "created_at": "2021-12-23T21:11:10Z"
+      },
+      {
+        "id": 237,
+        "user": "Gorden",
+        "rating": 1,
+        "text": "Unspecified trochanteric fracture of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC",
+        "created_at": "2021-06-12T01:54:00Z"
+      },
+      {
+        "id": 14,
+        "user": "Cathyleen",
+        "rating": 1,
+        "text": "Other specified deforming dorsopathies, occipito-atlanto-axial region",
+        "created_at": "2021-07-30T11:22:17Z"
+      }
+    ],
+    "updated_at": "2022-03-12T13:27:33Z",
+    "created_at": "2021-10-30T22:46:24Z"
+  }, {
+    "id": 835172,
+    "name": "Designer Watch",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed",
+    "categories": [
+      "Toys",
+      "Electronics",
+      "Pet Supplies"
+    ],
+    "total_sales": 23,
+    "price": 403.01,
+    "reviews": [
+      {
+        "id": 815,
+        "user": "Fayette",
+        "rating": 5,
+        "text": "Displaced fracture of distal pole of navicular [scaphoid] bone of unspecified wrist, initial encounter for open fracture",
+        "created_at": "2021-09-02T13:42:12Z"
+      },
+      {
+        "id": 89,
+        "user": "Fraze",
+        "rating": 2,
+        "text": "Abnormal weight gain",
+        "created_at": "2021-03-27T17:45:17Z"
+      }
+    ],
+    "updated_at": "2022-06-26T21:18:06Z",
+    "created_at": "2021-07-31T12:15:00Z"
+  }, {
+    "id": 439756,
+    "name": "Wireless Earbuds",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image.jpg",
+    "status": "Draft",
+    "description": "tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit",
+    "categories": [
+      "Home Decor",
+      "Pet Supplies"
+    ],
+    "total_sales": 5,
+    "price": 308.13,
+    "reviews": [
+      {
+        "id": 477,
+        "user": "Florie",
+        "rating": 5,
+        "text": "Congenital complete absence of upper limb, bilateral",
+        "created_at": "2021-03-16T14:34:29Z"
+      },
+      {
+        "id": 642,
+        "user": "Nicolas",
+        "rating": 1,
+        "text": "Other fracture of seventh cervical vertebra",
+        "created_at": "2021-11-03T17:44:31Z"
+      },
+      {
+        "id": 962,
+        "user": "Minerva",
+        "rating": 1,
+        "text": "Sprain of sternoclavicular joint",
+        "created_at": "2021-08-23T18:20:26Z"
+      },
+      {
+        "id": 991,
+        "user": "Janessa",
+        "rating": 4,
+        "text": "Combined forms of age-related cataract, left eye",
+        "created_at": "2021-03-07T17:54:43Z"
+      }
+    ],
+    "updated_at": "2022-03-28T08:20:41Z",
+    "created_at": "2021-01-01T07:26:28Z"
+  }, {
+    "id": 609105,
+    "name": "Faux Fur Throw Pillow",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Archived",
+    "description": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et",
+    "categories": [
+      "Books"
+    ],
+    "total_sales": 39,
+    "price": 388.85,
+    "reviews": [
+      {
+        "id": 615,
+        "user": "Dalston",
+        "rating": 3,
+        "text": "Laceration of flexor muscle, fascia and tendon of right little finger at forearm level, subsequent encounter",
+        "created_at": "2021-06-05T23:17:06Z"
+      },
+      {
+        "id": 416,
+        "user": "Kelley",
+        "rating": 5,
+        "text": "Monocular exotropia with other noncomitancies, left eye",
+        "created_at": "2021-10-12T14:01:37Z"
+      }
+    ],
+    "updated_at": "2022-09-29T22:17:46Z",
+    "created_at": "2021-06-15T00:43:49Z"
+  }, {
+    "id": 298615,
+    "name": "Silk Sleep Mask",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg",
+    "status": "Archived",
+    "description": "turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis",
+    "categories": [
+      "Pet Supplies",
+      "Sports Equipment",
+      "Outdoor Gear"
+    ],
+    "total_sales": 8,
+    "price": 715.79,
+    "reviews": [
+      {
+        "id": 762,
+        "user": "Towny",
+        "rating": 3,
+        "text": "Puncture wound with foreign body of unspecified buttock, sequela",
+        "created_at": "2021-06-20T09:21:34Z"
+      }
+    ],
+    "updated_at": "2022-02-19T06:27:10Z",
+    "created_at": "2021-05-05T06:05:38Z"
+  }, {
+    "id": 549792,
+    "name": "Gourmet Chocolate Box",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis",
+    "categories": [
+      "Beauty Products",
+      "Pet Supplies",
+      "Sports Equipment"
+    ],
+    "total_sales": 13,
+    "price": 947.65,
+    "reviews": [
+      {
+        "id": 297,
+        "user": "Evangelia",
+        "rating": 4,
+        "text": "Fatigue fracture of vertebra, site unspecified, subsequent encounter for fracture with routine healing",
+        "created_at": "2021-08-17T10:32:24Z"
+      },
+      {
+        "id": 87,
+        "user": "Dorri",
+        "rating": 5,
+        "text": "Other injury of descending [left] colon",
+        "created_at": "2021-04-30T00:06:41Z"
+      },
+      {
+        "id": 499,
+        "user": "Cordula",
+        "rating": 4,
+        "text": "Unspecified subluxation of right ring finger, subsequent encounter",
+        "created_at": "2021-10-06T15:06:44Z"
+      }
+    ],
+    "updated_at": "2022-09-12T21:13:30Z",
+    "created_at": "2021-11-09T20:30:37Z"
+  }, {
+    "id": 817792,
+    "name": "Stainless Steel Water Pitcher",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg",
+    "status": "Draft",
+    "description": "mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit",
+    "categories": [
+      "Beauty Products",
+      "Kitchen Appliances",
+      "Clothing"
+    ],
+    "total_sales": 19,
+    "price": 899.46,
+    "reviews": [
+      {
+        "id": 548,
+        "user": "Georgine",
+        "rating": 3,
+        "text": "Osteochondrosis (juvenile) of carpal lunate [Kienbock], right hand",
+        "created_at": "2021-05-26T02:39:21Z"
+      },
+      {
+        "id": 845,
+        "user": "Marlane",
+        "rating": 4,
+        "text": "Poisoning by unspecified drugs acting on muscles, undetermined, subsequent encounter",
+        "created_at": "2021-04-01T13:04:14Z"
+      }
+    ],
+    "updated_at": "2022-09-16T06:28:34Z",
+    "created_at": "2021-10-28T04:25:54Z"
+  }, {
+    "id": 952775,
+    "name": "Professional Makeup Brushes",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Draft",
+    "description": "ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit",
+    "categories": [
+      "Books",
+      "Toys",
+      "Home Decor"
+    ],
+    "total_sales": 45,
+    "price": 347.37,
+    "reviews": [
+      {
+        "id": 294,
+        "user": "Nicholas",
+        "rating": 1,
+        "text": "Acoustic neuritis in infectious and parasitic diseases classified elsewhere, left ear",
+        "created_at": "2021-08-18T03:37:39Z"
+      },
+      {
+        "id": 750,
+        "user": "Krispin",
+        "rating": 5,
+        "text": "Pedestrian on roller-skates injured in collision with heavy transport vehicle or bus in nontraffic accident, subsequent encounter",
+        "created_at": "2021-02-19T01:04:39Z"
+      },
+      {
+        "id": 67,
+        "user": "Minetta",
+        "rating": 5,
+        "text": "Vulvar vestibulitis",
+        "created_at": "2021-04-22T23:10:10Z"
+      }
+    ],
+    "updated_at": "2022-05-30T03:19:45Z",
+    "created_at": "2021-12-13T09:08:12Z"
+  }, {
+    "id": 14379,
+    "name": "Cozy Throw Blanket",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Active",
+    "description": "massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien",
+    "categories": [
+      "Home Decor"
+    ],
+    "total_sales": 41,
+    "price": 310.55,
+    "reviews": [
+      {
+        "id": 974,
+        "user": "Shandra",
+        "rating": 5,
+        "text": "Unspecified occupant of special construction vehicle injured in nontraffic accident",
+        "created_at": "2021-09-02T09:07:01Z"
+      },
+      {
+        "id": 793,
+        "user": "Ian",
+        "rating": 5,
+        "text": "Angular blepharoconjunctivitis",
+        "created_at": "2021-08-02T21:24:46Z"
+      }
+    ],
+    "updated_at": "2022-09-11T18:02:36Z",
+    "created_at": "2021-08-03T23:04:49Z"
+  }, {
+    "id": 989660,
+    "name": "Cozy Throw Blanket",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Archived",
+    "description": "convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices",
+    "categories": [
+      "Books"
+    ],
+    "total_sales": 34,
+    "price": 133.3,
+    "reviews": [
+      {
+        "id": 567,
+        "user": "Andeee",
+        "rating": 2,
+        "text": "Toxic effect of methanol, intentional self-harm",
+        "created_at": "2021-05-08T00:52:56Z"
+      }
+    ],
+    "updated_at": "2022-08-23T08:33:30Z",
+    "created_at": "2021-08-27T17:30:22Z"
+  }, {
+    "id": 607116,
+    "name": "Premium Coffee Maker",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Archived",
+    "description": "ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum",
+    "categories": [
+      "Sports Equipment"
+    ],
+    "total_sales": 34,
+    "price": 573.62,
+    "reviews": [
+      {
+        "id": 625,
+        "user": "Manon",
+        "rating": 2,
+        "text": "Poisoning by other antacids and anti-gastric-secretion drugs, assault, sequela",
+        "created_at": "2021-03-28T03:37:56Z"
+      },
+      {
+        "id": 102,
+        "user": "Corissa",
+        "rating": 2,
+        "text": "Other fracture of left femur, subsequent encounter for closed fracture with malunion",
+        "created_at": "2021-11-22T22:44:39Z"
+      },
+      {
+        "id": 422,
+        "user": "Ricard",
+        "rating": 1,
+        "text": "Coma scale, eyes open, to pain, at arrival to emergency department",
+        "created_at": "2021-09-13T14:38:18Z"
+      }
+    ],
+    "updated_at": "2022-03-22T02:01:41Z",
+    "created_at": "2021-02-07T16:48:02Z"
+  }, {
+    "id": 443847,
+    "name": "Minimalist Desk Lamp",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio",
+    "categories": [
+      "Pet Supplies"
+    ],
+    "total_sales": 15,
+    "price": 599.7,
+    "reviews": [
+      {
+        "id": 270,
+        "user": "Bevin",
+        "rating": 5,
+        "text": "Laceration of intrinsic muscle, fascia and tendon of right index finger at wrist and hand level, initial encounter",
+        "created_at": "2021-04-22T15:31:20Z"
+      }
+    ],
+    "updated_at": "2022-07-14T16:47:43Z",
+    "created_at": "2021-08-20T02:45:53Z"
+  }, {
+    "id": 127273,
+    "name": "Handcrafted Ceramic Mug",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Draft",
+    "description": "id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia",
+    "categories": [
+      "Sports Equipment",
+      "Home Decor",
+      "Books"
+    ],
+    "total_sales": 21,
+    "price": 481.03,
+    "reviews": [
+      {
+        "id": 276,
+        "user": "Harald",
+        "rating": 1,
+        "text": "Displaced fracture of trapezium [larger multangular], right wrist, subsequent encounter for fracture with routine healing",
+        "created_at": "2021-11-08T12:09:55Z"
+      }
+    ],
+    "updated_at": "2022-08-04T19:40:19Z",
+    "created_at": "2021-07-18T23:04:14Z"
+  }, {
+    "id": 815234,
+    "name": "Insulated Water Bottle",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Draft",
+    "description": "at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget",
+    "categories": [
+      "Pet Supplies",
+      "Kitchen Appliances",
+      "Electronics"
+    ],
+    "total_sales": 11,
+    "price": 707.84,
+    "reviews": [
+      {
+        "id": 111,
+        "user": "Janka",
+        "rating": 1,
+        "text": "Unspecified superficial injury of unspecified part of neck, initial encounter",
+        "created_at": "2021-05-16T09:38:12Z"
+      },
+      {
+        "id": 845,
+        "user": "Homer",
+        "rating": 4,
+        "text": "Other mechanical complication of biological heart valve graft, initial encounter",
+        "created_at": "2021-07-18T00:52:12Z"
+      }
+    ],
+    "updated_at": "2022-07-05T23:44:06Z",
+    "created_at": "2021-03-01T03:58:46Z"
+  }, {
+    "id": 309902,
+    "name": "Stylish Sunglasses",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Archived",
+    "description": "curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac",
+    "categories": [
+      "Beauty Products"
+    ],
+    "total_sales": 29,
+    "price": 541.37,
+    "reviews": [
+      {
+        "id": 93,
+        "user": "Alie",
+        "rating": 2,
+        "text": "Nondisplaced transverse fracture of shaft of right radius, subsequent encounter for open fracture type I or II with nonunion",
+        "created_at": "2021-06-27T10:05:00Z"
+      },
+      {
+        "id": 648,
+        "user": "Stephannie",
+        "rating": 2,
+        "text": "Laceration with foreign body of right middle finger with damage to nail, sequela",
+        "created_at": "2021-12-16T04:13:55Z"
+      },
+      {
+        "id": 269,
+        "user": "Tracy",
+        "rating": 5,
+        "text": "Nondisplaced fracture of lunate [semilunar], right wrist, subsequent encounter for fracture with nonunion",
+        "created_at": "2021-12-01T05:27:11Z"
+      }
+    ],
+    "updated_at": "2022-07-24T20:07:53Z",
+    "created_at": "2021-11-07T20:45:18Z"
+  }, {
+    "id": 351702,
+    "name": "Designer Watch",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "status": "Draft",
+    "description": "quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis",
+    "categories": [
+      "Outdoor Gear"
+    ],
+    "total_sales": 42,
+    "price": 669.12,
+    "reviews": [
+      {
+        "id": 511,
+        "user": "Sheba",
+        "rating": 1,
+        "text": "Family history of other specific disorders",
+        "created_at": "2021-07-19T00:11:21Z"
+      },
+      {
+        "id": 158,
+        "user": "Brynn",
+        "rating": 3,
+        "text": "Unspecified injury of other specified blood vessels at shoulder and upper arm level, left arm, initial encounter",
+        "created_at": "2021-08-27T23:47:38Z"
+      },
+      {
+        "id": 92,
+        "user": "Corly",
+        "rating": 4,
+        "text": "Other stimulant dependence with stimulant-induced anxiety disorder",
+        "created_at": "2021-02-24T13:23:46Z"
+      }
+    ],
+    "updated_at": "2022-01-13T15:14:24Z",
+    "created_at": "2021-09-04T08:07:31Z"
+  }, {
+    "id": 810368,
+    "name": "Vintage Record Player",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Draft",
+    "description": "justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat",
+    "categories": [
+      "Books",
+      "Kitchen Appliances"
+    ],
+    "total_sales": 24,
+    "price": 343.55,
+    "reviews": [
+      {
+        "id": 315,
+        "user": "Ernestus",
+        "rating": 3,
+        "text": "Partial traumatic amputation of one left lesser toe, initial encounter",
+        "created_at": "2021-09-18T12:25:01Z"
+      },
+      {
+        "id": 493,
+        "user": "Adelaide",
+        "rating": 4,
+        "text": "Other osteoporosis with current pathological fracture, unspecified ankle and foot, subsequent encounter for fracture with malunion",
+        "created_at": "2021-07-04T06:28:51Z"
+      }
+    ],
+    "updated_at": "2022-05-27T09:59:33Z",
+    "created_at": "2021-02-01T13:45:06Z"
+  }, {
+    "id": 203429,
+    "name": "Faux Fur Throw Pillow",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Active",
+    "description": "aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum",
+    "categories": [
+      "Outdoor Gear"
+    ],
+    "total_sales": 45,
+    "price": 319.98,
+    "reviews": [
+      {
+        "id": 524,
+        "user": "Mar",
+        "rating": 3,
+        "text": "Displaced avulsion fracture (chip fracture) of right talus, subsequent encounter for fracture with malunion",
+        "created_at": "2021-05-31T00:26:41Z"
+      },
+      {
+        "id": 638,
+        "user": "Lorelle",
+        "rating": 1,
+        "text": "Infantile (acute) (chronic) eczema",
+        "created_at": "2021-06-10T02:55:40Z"
+      },
+      {
+        "id": 403,
+        "user": "Hali",
+        "rating": 1,
+        "text": "Displaced apophyseal fracture of unspecified femur, subsequent encounter for closed fracture with malunion",
+        "created_at": "2021-10-03T21:26:53Z"
+      }
+    ],
+    "updated_at": "2022-09-19T09:30:33Z",
+    "created_at": "2021-03-21T08:59:51Z"
+  }, {
+    "id": 809601,
+    "name": "Insulated Water Bottle",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Archived",
+    "description": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit",
+    "categories": [
+      "Beauty Products"
+    ],
+    "total_sales": 14,
+    "price": 136.92,
+    "reviews": [
+      {
+        "id": 301,
+        "user": "Alexis",
+        "rating": 2,
+        "text": "Acquired stenosis of nasolacrimal duct",
+        "created_at": "2021-07-30T09:46:04Z"
+      },
+      {
+        "id": 388,
+        "user": "Lissie",
+        "rating": 5,
+        "text": "Major laceration of inferior mesenteric artery",
+        "created_at": "2021-08-07T15:42:35Z"
+      },
+      {
+        "id": 474,
+        "user": "Domenico",
+        "rating": 4,
+        "text": "Unspecified injury of liver, subsequent encounter",
+        "created_at": "2021-09-13T18:24:05Z"
+      }
+    ],
+    "updated_at": "2022-12-05T20:16:18Z",
+    "created_at": "2021-12-28T04:18:31Z"
+  }, {
+    "id": 395200,
+    "name": "Organic Skincare Set",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Draft",
+    "description": "neque sapien placerat ante nulla justo aliquam quis turpis eget elit",
+    "categories": [
+      "Outdoor Gear"
+    ],
+    "total_sales": 28,
+    "price": 727.73,
+    "reviews": [
+      {
+        "id": 116,
+        "user": "Dana",
+        "rating": 5,
+        "text": "Displaced spiral fracture of shaft of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",
+        "created_at": "2021-03-18T23:36:44Z"
+      },
+      {
+        "id": 749,
+        "user": "Rory",
+        "rating": 4,
+        "text": "Contusion of left thumb without damage to nail, subsequent encounter",
+        "created_at": "2021-05-30T14:46:56Z"
+      },
+      {
+        "id": 720,
+        "user": "Kin",
+        "rating": 2,
+        "text": "External constriction, right lesser toe(s), sequela",
+        "created_at": "2021-08-08T20:02:50Z"
+      }
+    ],
+    "updated_at": "2022-05-11T22:03:42Z",
+    "created_at": "2021-10-17T17:45:16Z"
+  }, {
+    "id": 938586,
+    "name": "Sleek Laptop Sleeve",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl",
+    "categories": [
+      "Electronics",
+      "Outdoor Gear",
+      "Toys"
+    ],
+    "total_sales": 38,
+    "price": 933.58,
+    "reviews": [
+      {
+        "id": 614,
+        "user": "Danella",
+        "rating": 1,
+        "text": "Nondisplaced transverse fracture of shaft of unspecified fibula, subsequent encounter for closed fracture with malunion",
+        "created_at": "2021-12-22T03:50:48Z"
+      },
+      {
+        "id": 835,
+        "user": "Mac",
+        "rating": 5,
+        "text": "Other fracture of fourth thoracic vertebra, initial encounter for closed fracture",
+        "created_at": "2021-11-17T00:09:33Z"
+      },
+      {
+        "id": 151,
+        "user": "Darill",
+        "rating": 3,
+        "text": "Spondylopathies in diseases classified elsewhere",
+        "created_at": "2021-09-16T13:22:43Z"
+      }
+    ],
+    "updated_at": "2022-06-02T11:22:02Z",
+    "created_at": "2021-08-23T07:31:24Z"
+  }, {
+    "id": 604464,
+    "name": "Yoga Mat Bag",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis",
+    "categories": [
+      "Clothing",
+      "Pet Supplies",
+      "Outdoor Gear"
+    ],
+    "total_sales": 33,
+    "price": 113.32,
+    "reviews": [
+      {
+        "id": 863,
+        "user": "Ferris",
+        "rating": 5,
+        "text": "Secondary corneal edema, right eye",
+        "created_at": "2021-04-27T00:55:11Z"
+      },
+      {
+        "id": 108,
+        "user": "Flossi",
+        "rating": 3,
+        "text": "Unspecified transfusion reaction, sequela",
+        "created_at": "2021-06-12T14:27:00Z"
+      },
+      {
+        "id": 170,
+        "user": "Bastian",
+        "rating": 5,
+        "text": "Injury of median nerve at upper arm level, right arm, sequela",
+        "created_at": "2021-03-08T16:59:42Z"
+      },
+      {
+        "id": 318,
+        "user": "Karla",
+        "rating": 2,
+        "text": "Nondisplaced segmental fracture of shaft of left femur, sequela",
+        "created_at": "2021-07-27T05:13:57Z"
+      }
+    ],
+    "updated_at": "2022-09-19T04:47:12Z",
+    "created_at": "2021-02-08T06:00:23Z"
+  }, {
+    "id": 18789,
+    "name": "Insulated Water Bottle",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus",
+    "categories": [
+      "Electronics",
+      "Home Decor"
+    ],
+    "total_sales": 8,
+    "price": 166.71,
+    "reviews": [
+      {
+        "id": 981,
+        "user": "Donnie",
+        "rating": 4,
+        "text": "Laceration with foreign body of vocal cord, initial encounter",
+        "created_at": "2021-09-19T14:41:35Z"
+      },
+      {
+        "id": 347,
+        "user": "Fidole",
+        "rating": 1,
+        "text": "Hit or struck by falling object due to accident to sailboat",
+        "created_at": "2021-08-11T18:40:04Z"
+      }
+    ],
+    "updated_at": "2022-03-03T14:57:51Z",
+    "created_at": "2021-02-24T11:01:48Z"
+  }, {
+    "id": 425569,
+    "name": "Essential Oil Diffuser",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Active",
+    "description": "ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis",
+    "categories": [
+      "Beauty Products"
+    ],
+    "total_sales": 26,
+    "price": 167.89,
+    "reviews": [
+      {
+        "id": 477,
+        "user": "Pollyanna",
+        "rating": 3,
+        "text": "Contusion of nose, initial encounter",
+        "created_at": "2021-06-21T05:18:07Z"
+      },
+      {
+        "id": 719,
+        "user": "Nerita",
+        "rating": 1,
+        "text": "Injury of other and unspecified intrathoracic organs",
+        "created_at": "2021-02-22T17:43:32Z"
+      },
+      {
+        "id": 892,
+        "user": "Ruthi",
+        "rating": 2,
+        "text": "Asphyxiation due to hanging, undetermined, subsequent encounter",
+        "created_at": "2021-07-29T09:14:33Z"
+      }
+    ],
+    "updated_at": "2022-05-27T08:50:33Z",
+    "created_at": "2021-08-17T13:28:46Z"
+  }, {
+    "id": 89410,
+    "name": "Designer Watch",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "status": "Archived",
+    "description": "et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis",
+    "categories": [
+      "Electronics",
+      "Home Decor",
+      "Toys"
+    ],
+    "total_sales": 12,
+    "price": 753.85,
+    "reviews": [
+      {
+        "id": 821,
+        "user": "Manon",
+        "rating": 3,
+        "text": "Maternal care for unspecified congenital malformation of uterus, second trimester",
+        "created_at": "2021-06-21T02:52:34Z"
+      }
+    ],
+    "updated_at": "2022-03-23T09:38:49Z",
+    "created_at": "2021-06-22T12:40:49Z"
+  }, {
+    "id": 578987,
+    "name": "Yoga Mat Bag",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-10.jpg",
+    "status": "Archived",
+    "description": "vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci",
+    "categories": [
+      "Electronics",
+      "Home Decor"
+    ],
+    "total_sales": 16,
+    "price": 269.37,
+    "reviews": [
+      {
+        "id": 475,
+        "user": "Aldin",
+        "rating": 1,
+        "text": "Other pemphigus",
+        "created_at": "2021-04-23T04:02:18Z"
+      },
+      {
+        "id": 530,
+        "user": "Lilla",
+        "rating": 5,
+        "text": "Legal intervention involving other explosives, suspect injured",
+        "created_at": "2021-03-22T05:06:03Z"
+      },
+      {
+        "id": 831,
+        "user": "Ned",
+        "rating": 1,
+        "text": "Other diseases of stomach and duodenum",
+        "created_at": "2021-03-02T01:36:17Z"
+      },
+      {
+        "id": 362,
+        "user": "Penny",
+        "rating": 4,
+        "text": "Burn of second degree of multiple right fingers (nail), not including thumb, subsequent encounter",
+        "created_at": "2021-08-21T16:35:49Z"
+      }
+    ],
+    "updated_at": "2022-10-05T22:44:49Z",
+    "created_at": "2021-06-30T20:54:37Z"
+  }, {
+    "id": 794917,
+    "name": "Gourmet Chocolate Box",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Active",
+    "description": "vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci",
+    "categories": [
+      "Beauty Products",
+      "Pet Supplies",
+      "Clothing"
+    ],
+    "total_sales": 32,
+    "price": 609.9,
+    "reviews": [
+      {
+        "id": 842,
+        "user": "Zacharias",
+        "rating": 3,
+        "text": "Laceration without foreign body of unspecified front wall of thorax without penetration into thoracic cavity, sequela",
+        "created_at": "2021-08-19T20:38:04Z"
+      }
+    ],
+    "updated_at": "2022-08-16T07:01:13Z",
+    "created_at": "2021-02-27T04:33:51Z"
+  }, {
+    "id": 443310,
+    "name": "Premium Coffee Maker",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Archived",
+    "description": "sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor",
+    "categories": [
+      "Sports Equipment",
+      "Outdoor Gear"
+    ],
+    "total_sales": 7,
+    "price": 869.85,
+    "reviews": [
+      {
+        "id": 37,
+        "user": "Antons",
+        "rating": 2,
+        "text": "Poisoning by saline and osmotic laxatives, accidental (unintentional), sequela",
+        "created_at": "2021-12-26T14:24:38Z"
+      },
+      {
+        "id": 56,
+        "user": "Myron",
+        "rating": 3,
+        "text": "Toxic effect of unspecified alcohol, intentional self-harm",
+        "created_at": "2021-12-26T16:22:35Z"
+      },
+      {
+        "id": 40,
+        "user": "Karia",
+        "rating": 3,
+        "text": "Other injury of other muscles, fascia and tendons at shoulder and upper arm level, left arm",
+        "created_at": "2021-01-08T06:17:45Z"
+      }
+    ],
+    "updated_at": "2022-01-08T01:36:06Z",
+    "created_at": "2021-02-11T18:37:43Z"
+  }, {
+    "id": 632869,
+    "name": "Handcrafted Ceramic Mug",
+    "img": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "status": "Draft",
+    "description": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo",
+    "categories": [
+      "Home Decor",
+      "Books",
+      "Pet Supplies"
+    ],
+    "total_sales": 21,
+    "price": 166.68,
+    "reviews": [
+      {
+        "id": 928,
+        "user": "Katuscha",
+        "rating": 5,
+        "text": "Poisoning by unspecified drugs primarily affecting the autonomic nervous system, intentional self-harm",
+        "created_at": "2021-03-06T15:04:02Z"
+      }
+    ],
+    "updated_at": "2022-10-12T02:43:43Z",
+    "created_at": "2021-06-23T22:23:26Z"
+  }],
+  "statistics": [
+    {
+      "date": "01/08/2024",
+      "sales": 85,
+      "revenue": 466.27
+    }, {
+      "date": "06/23/2023",
+      "sales": 147,
+      "revenue": 783.19
+    }, {
+      "date": "10/28/2023",
+      "sales": 222,
+      "revenue": 636.89
+    }, {
+      "date": "06/29/2024",
+      "sales": 355,
+      "revenue": 849.57
+    }, {
+      "date": "07/27/2023",
+      "sales": 299,
+      "revenue": 481.5
+    }, {
+      "date": "07/17/2023",
+      "sales": 455,
+      "revenue": 871.32
+    }, {
+      "date": "05/01/2024",
+      "sales": 511,
+      "revenue": 836.84
+    }, {
+      "date": "01/25/2023",
+      "sales": 236,
+      "revenue": 253.09
+    }, {
+      "date": "10/25/2024",
+      "sales": 155,
+      "revenue": 410.78
+    }, {
+      "date": "01/25/2023",
+      "sales": 243,
+      "revenue": 703.85
+    }, {
+      "date": "09/24/2024",
+      "sales": 512,
+      "revenue": 966.81
+    }, {
+      "date": "12/09/2023",
+      "sales": 259,
+      "revenue": 661.95
+    }, {
+      "date": "01/26/2024",
+      "sales": 66,
+      "revenue": 858.49
+    }, {
+      "date": "09/12/2024",
+      "sales": 109,
+      "revenue": 581.61
+    }, {
+      "date": "10/02/2024",
+      "sales": 120,
+      "revenue": 333.54
+    }, {
+      "date": "05/06/2023",
+      "sales": 154,
+      "revenue": 282.21
+    }, {
+      "date": "09/15/2024",
+      "sales": 432,
+      "revenue": 771.61
+    }, {
+      "date": "06/09/2023",
+      "sales": 183,
+      "revenue": 299.03
+    }, {
+      "date": "07/16/2023",
+      "sales": 153,
+      "revenue": 323.22
+    }, {
+      "date": "12/07/2024",
+      "sales": 93,
+      "revenue": 820.36
+    }, {
+      "date": "03/01/2024",
+      "sales": 92,
+      "revenue": 894.2
+    }, {
+      "date": "07/25/2024",
+      "sales": 305,
+      "revenue": 487.87
+    }, {
+      "date": "11/28/2023",
+      "sales": 125,
+      "revenue": 502.16
+    }, {
+      "date": "02/28/2023",
+      "sales": 359,
+      "revenue": 434.47
+    }, {
+      "date": "02/21/2023",
+      "sales": 409,
+      "revenue": 255.63
+    }, {
+      "date": "07/28/2024",
+      "sales": 423,
+      "revenue": 393.31
+    }, {
+      "date": "09/19/2023",
+      "sales": 318,
+      "revenue": 303.66
+    }, {
+      "date": "12/10/2024",
+      "sales": 409,
+      "revenue": 632.69
+    }, {
+      "date": "06/21/2023",
+      "sales": 507,
+      "revenue": 538.18
+    }, {
+      "date": "09/29/2024",
+      "sales": 217,
+      "revenue": 952.88
+    }, {
+      "date": "05/26/2024",
+      "sales": 535,
+      "revenue": 983.65
+    }, {
+      "date": "05/03/2023",
+      "sales": 304,
+      "revenue": 603.85
+    }, {
+      "date": "12/05/2023",
+      "sales": 499,
+      "revenue": 241.19
+    }, {
+      "date": "04/07/2023",
+      "sales": 42,
+      "revenue": 925.11
+    }, {
+      "date": "01/17/2023",
+      "sales": 378,
+      "revenue": 988.07
+    }, {
+      "date": "02/17/2024",
+      "sales": 219,
+      "revenue": 425.97
+    }, {
+      "date": "07/14/2024",
+      "sales": 297,
+      "revenue": 383.3
+    }, {
+      "date": "08/15/2024",
+      "sales": 453,
+      "revenue": 941.87
+    }, {
+      "date": "02/10/2024",
+      "sales": 41,
+      "revenue": 503.29
+    }, {
+      "date": "08/28/2023",
+      "sales": 151,
+      "revenue": 791.91
+    }, {
+      "date": "03/30/2023",
+      "sales": 414,
+      "revenue": 719.46
+    }, {
+      "date": "08/26/2023",
+      "sales": 272,
+      "revenue": 662.07
+    }, {
+      "date": "06/17/2024",
+      "sales": 263,
+      "revenue": 956.01
+    }, {
+      "date": "09/17/2023",
+      "sales": 80,
+      "revenue": 788.63
+    }, {
+      "date": "04/01/2023",
+      "sales": 265,
+      "revenue": 354.59
+    }, {
+      "date": "08/31/2024",
+      "sales": 129,
+      "revenue": 289.92
+    }, {
+      "date": "01/11/2023",
+      "sales": 164,
+      "revenue": 314.6
+    }, {
+      "date": "04/04/2023",
+      "sales": 425,
+      "revenue": 309.08
+    }, {
+      "date": "06/18/2023",
+      "sales": 468,
+      "revenue": 488.64
+    }, {
+      "date": "11/19/2023",
+      "sales": 494,
+      "revenue": 609.52
+    }, {
+      "date": "12/06/2023",
+      "sales": 197,
+      "revenue": 688.46
+    }, {
+      "date": "02/18/2024",
+      "sales": 446,
+      "revenue": 916.11
+    }, {
+      "date": "05/08/2024",
+      "sales": 243,
+      "revenue": 508.41
+    }, {
+      "date": "04/03/2023",
+      "sales": 110,
+      "revenue": 801.51
+    }, {
+      "date": "11/09/2023",
+      "sales": 519,
+      "revenue": 372.47
+    }, {
+      "date": "05/11/2023",
+      "sales": 78,
+      "revenue": 435.94
+    }, {
+      "date": "09/23/2024",
+      "sales": 85,
+      "revenue": 283.9
+    }, {
+      "date": "10/28/2024",
+      "sales": 110,
+      "revenue": 372.57
+    }, {
+      "date": "02/24/2024",
+      "sales": 51,
+      "revenue": 663.06
+    }, {
+      "date": "06/22/2024",
+      "sales": 409,
+      "revenue": 306.91
+    }, {
+      "date": "05/14/2024",
+      "sales": 522,
+      "revenue": 303.76
+    }, {
+      "date": "04/06/2024",
+      "sales": 409,
+      "revenue": 902.32
+    }, {
+      "date": "05/03/2023",
+      "sales": 344,
+      "revenue": 320.77
+    }, {
+      "date": "04/12/2023",
+      "sales": 296,
+      "revenue": 275.06
+    }, {
+      "date": "01/10/2024",
+      "sales": 222,
+      "revenue": 681.9
+    }, {
+      "date": "03/29/2023",
+      "sales": 133,
+      "revenue": 860.81
+    }, {
+      "date": "06/26/2024",
+      "sales": 370,
+      "revenue": 793.22
+    }, {
+      "date": "08/04/2024",
+      "sales": 197,
+      "revenue": 604.05
+    }, {
+      "date": "05/29/2024",
+      "sales": 441,
+      "revenue": 998.9
+    }, {
+      "date": "06/29/2023",
+      "sales": 191,
+      "revenue": 675.74
+    }, {
+      "date": "06/08/2024",
+      "sales": 128,
+      "revenue": 637.29
+    }, {
+      "date": "08/06/2023",
+      "sales": 133,
+      "revenue": 270.69
+    }, {
+      "date": "12/03/2024",
+      "sales": 439,
+      "revenue": 853.82
+    }, {
+      "date": "12/25/2024",
+      "sales": 81,
+      "revenue": 394.9
+    }, {
+      "date": "09/10/2023",
+      "sales": 76,
+      "revenue": 363.37
+    }, {
+      "date": "04/20/2023",
+      "sales": 365,
+      "revenue": 207.17
+    }, {
+      "date": "01/29/2023",
+      "sales": 241,
+      "revenue": 800.15
+    }, {
+      "date": "02/04/2023",
+      "sales": 78,
+      "revenue": 847.58
+    }, {
+      "date": "11/27/2024",
+      "sales": 163,
+      "revenue": 261.64
+    }, {
+      "date": "02/16/2023",
+      "sales": 319,
+      "revenue": 576.65
+    }, {
+      "date": "07/18/2023",
+      "sales": 498,
+      "revenue": 936.76
+    }, {
+      "date": "10/06/2024",
+      "sales": 88,
+      "revenue": 707.54
+    }, {
+      "date": "12/28/2024",
+      "sales": 98,
+      "revenue": 413.63
+    }, {
+      "date": "12/11/2023",
+      "sales": 318,
+      "revenue": 617.8
+    }, {
+      "date": "09/19/2024",
+      "sales": 112,
+      "revenue": 961.84
+    }, {
+      "date": "05/16/2023",
+      "sales": 411,
+      "revenue": 284.15
+    }, {
+      "date": "09/08/2023",
+      "sales": 332,
+      "revenue": 800.73
+    }, {
+      "date": "09/12/2024",
+      "sales": 288,
+      "revenue": 978.81
+    }, {
+      "date": "12/28/2024",
+      "sales": 127,
+      "revenue": 286.54
+    }, {
+      "date": "10/16/2023",
+      "sales": 333,
+      "revenue": 416.88
+    }, {
+      "date": "06/11/2024",
+      "sales": 39,
+      "revenue": 893.92
+    }, {
+      "date": "01/14/2024",
+      "sales": 203,
+      "revenue": 564.3
+    }, {
+      "date": "10/25/2024",
+      "sales": 118,
+      "revenue": 530.86
+    }, {
+      "date": "04/11/2024",
+      "sales": 231,
+      "revenue": 386.13
+    }, {
+      "date": "04/13/2024",
+      "sales": 454,
+      "revenue": 420.32
+    }, {
+      "date": "04/14/2024",
+      "sales": 357,
+      "revenue": 983.25
+    }, {
+      "date": "03/22/2023",
+      "sales": 285,
+      "revenue": 822.51
+    }, {
+      "date": "09/08/2023",
+      "sales": 220,
+      "revenue": 262.47
+    }, {
+      "date": "03/16/2023",
+      "sales": 96,
+      "revenue": 411.63
+    }, {
+      "date": "06/12/2024",
+      "sales": 246,
+      "revenue": 342.47
+    }
+  ]
+}
